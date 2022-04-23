@@ -1,0 +1,88 @@
+{
+    "bot": {
+        "owner": "Kendi discord id giriniz",
+        "prefix": "bot ön ek giriniz",
+        "BotStatus": "Bilmem ne kalp MERMKGEQKRGERG",
+        "BotFooter": "Bot alt kısım",
+        "cooldown": 8
+    },
+    "penals": {
+        "ban": {
+            "staff": "Ban yetkilisi id",
+            "log": "Ban log id",
+            "limit": 3
+        },
+        "jail": {
+            "staff": "Jail yetkili id",
+            "roles": "Cezalı rolü id",
+            "log": "Ceza log id",
+            "limit": 5
+        },
+        "mute": {
+            "staff": "Mute yetkilisi id",
+            "roles": "Susturulmuş kişi id",
+            "log": "Mute log id",
+            "limit": 5
+        },
+        "warn": {
+            "staff": "Warn yetkilisi id",
+            "log": "Warn log id"
+        },
+        "transport": {
+            "staff": "Ta"
+        },
+        "points": {
+            "mutepoints": "10",
+            "banpoints": "30",
+            "jailpoints": "20",
+            "warnpoints": "5"
+        }
+    },
+    "logs": {
+        "taglog": "Tag log id",
+        "rollog": "Rol log id",
+        "messagelog": "Mesaj log id",
+        "seslog": "Ses log id"
+    },
+    "roles": {
+        "vip": "Vip rol id",
+        "sponsor": "Sponsor rol id",
+        "müzisyen": "Müzisyen rol id",
+        "team": "Taglı rol id"
+    },
+    "channels": {
+        "chat": "Chat kanalı id",
+        "voicechannel": "Bot ses kanalı id",
+        "welcomechannel": "Hoş geldin kanalı id",
+        "rules": "Kurallar kanalı id"
+    },
+    "registration": {
+        "unregistered": "Kayıtsız rol id",
+        "man": ["Erkek rol id", "2. Erkek rol id"],
+        "woman": ["Kadın rol id", "2. Kadın rol id"],
+        "yetkilialim": "Yetkili alim id",
+        "staff": "Register rol id",
+        "enaltyetkilirolü": "En alt yetkili rol id",
+        "GuilDTag": "Sunucu Tagınız",
+        "TagSymbol": "İsim ve yaş önüne koyulacak sembol",
+        "autonickname": "$ İsim | Yaş (Otomatik isim)",
+        "symbol": "|",
+        "suspecios": "Şüpheli rol id",
+        "susoeciosnickname": "Şüpheli Hesap",
+        "oneman": "1. Erkek rolu",
+        "onewoman": "2. Kadın rolu",
+        "minage": 13, 
+        "purchase": false
+    },
+    "Guild": {
+        "GuildID": "Sunucu id",
+        "GuilDName": "Sunucu Adınız",
+        "GuildOwnerRole": ["Sunucu owner id"]
+    },
+    "emojis": {
+        "tada": "Emoji 1",
+        "yes": "Emoji 2",
+        "no": "Emoji 3"
+
+    }
+} 
