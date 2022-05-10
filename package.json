@@ -1,12 +1,12 @@
 {
-  "name": "borangkdn",
+  "name": "thetomentosadev",
   "version": "0.0.1",
-  "description": "BoranGkdn tarafından yapılan süpervizör bot.",
+  "description": "bir YouTuberdan alınıp hatalar giderilmiştir.",
   "main": "borangkdn.js",
   "scripts": {
-    "start": "node borangkdn.js"
+    "start": "node index.js"
   },
-  "author": "BoranGkdn",
+  "author": "thetomentosa",
   "license": "MIT",
   "dependencies": {
     "@discordjs/voice": "^0.7.5",
