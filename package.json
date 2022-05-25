@@ -2,7 +2,7 @@
   "name": "thetomentosadev",
   "version": "0.0.1",
   "description": "bir YouTuberdan alınıp hatalar giderilmiştir.",
-  "main": "borangkdn.js",
+  "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
